@@ -1,0 +1,6 @@
+net/viamcom/apirest/controllers/ClienteRestController.class
+net/viamcom/apirest/models/services/ClienteServiceImpl.class
+net/viamcom/apirest/models/dao/IClienteDao.class
+net/viamcom/apirest/models/entity/Cliente.class
+net/viamcom/apirest/models/services/IClienteService.class
+net/viamcom/apirest/ApirestApplication.class

@@ -1,0 +1,6 @@
+/Users/itzel/Practicas/apiRestClients/src/main/java/net/viamcom/apirest/models/entity/Cliente.java
+/Users/itzel/Practicas/apiRestClients/src/main/java/net/viamcom/apirest/ApirestApplication.java
+/Users/itzel/Practicas/apiRestClients/src/main/java/net/viamcom/apirest/controllers/ClienteRestController.java
+/Users/itzel/Practicas/apiRestClients/src/main/java/net/viamcom/apirest/models/dao/IClienteDao.java
+/Users/itzel/Practicas/apiRestClients/src/main/java/net/viamcom/apirest/models/services/ClienteServiceImpl.java
+/Users/itzel/Practicas/apiRestClients/src/main/java/net/viamcom/apirest/models/services/IClienteService.java
